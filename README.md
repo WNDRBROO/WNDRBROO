@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WNDRBROO
-- 👀 I’m interested in python and full stack development 
-- 🌱 I’m currently learning programming 
+- 👋 Hi, I’m Lindokuhle
+- 👀 I’m interested in python, Java and full stack development 
+- 🌱 I’m currently learning programming and Cloud
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me Twitter @ Lindokuhle_kubeka
 - 😄 Pronouns: he/him
